@@ -1,0 +1,6 @@
+[
+  "scripts/test_order.py::TestA::()::test01",
+  "scripts/test_order.py::TestA::()::test02",
+  "scripts/test_order.py::TestA::()::test03",
+  "scripts/test_order.py::TestA::()::test04"
+]
